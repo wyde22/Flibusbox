@@ -1,0 +1,191 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: flibusbox\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2016-11-24 12:55+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/flibusbox-admin-options-page.php:17
+msgid "save"
+msgstr "Enregistrez"
+
+#: inc/flibusbox-admin-settings.php:16
+msgid "Open / Close"
+msgstr "Ouverture / Fermeture"
+
+#: inc/flibusbox-admin-settings.php:26
+msgid "<em>Settings open and close effect of fancybox</em>"
+msgstr ""
+"<em>Réglages pour les effets d'ouverture et de fermeture de fancybox</em>"
+
+#: inc/flibusbox-admin-settings.php:36
+msgid "Open effect"
+msgstr "Effet d'ouverture"
+
+#: inc/flibusbox-admin-settings.php:68
+msgid "Open speed"
+msgstr "Vitesse d'ouverture"
+
+#: inc/flibusbox-admin-settings.php:99
+msgid "Close effects"
+msgstr "Effets de fermeture"
+
+#: inc/flibusbox-admin-settings.php:131
+msgid "Prev effects"
+msgstr "Effets navigation latérale"
+
+#: inc/flibusbox-admin-settings.php:185
+msgid "<em>Settings fancybox overlay</em>"
+msgstr "<em>Réglage de l'overlay de fancybox</em>"
+
+#: inc/flibusbox-admin-settings.php:237
+msgid "Buttons"
+msgstr "Boutons"
+
+#: inc/flibusbox-admin-settings.php:247
+msgid "<em>Settings buttons navigation</em>"
+msgstr "<em>Réglages des boutons de navigations</em>"
+
+#: inc/flibusbox-admin-settings.php:257
+msgid "Theme"
+msgstr "Thème"
+
+#: inc/flibusbox-admin-settings.php:318
+msgid "Custom theme for normal screen"
+msgstr "Thème personnalisé pour l'écran normal"
+
+#: inc/flibusbox-admin-settings.php:336
+msgid "choose your theme for navigation of fancybox on normal screen"
+msgstr ""
+"Choisissez votre thème pour la navigation de fancybox sur un écran normal"
+
+#: inc/flibusbox-admin-settings.php:337
+msgid ""
+"for a good use of this plugin, you must choose an image with this "
+"dimension : width -> 44px and height -> 152px"
+msgstr ""
+"Pour une bonne utilisation de ce plugin, vous devez choisir une image avec "
+"ces dimensions : largeur-> 44px et hauteur-> 152px"
+
+#: inc/flibusbox-admin-settings.php:340 inc/flibusbox-admin-settings.php:379
+msgid "Choose your custom theme"
+msgstr "Choisissez votre thème personnalisé"
+
+#: inc/flibusbox-admin-settings.php:357
+msgid "Custom theme for retina screen"
+msgstr "Thème personnalisé pour les écrans rétina"
+
+#: inc/flibusbox-admin-settings.php:375
+msgid "choose your theme for navigation of fancybox on retina screen"
+msgstr ""
+"Choisissez votre thème pour la navigation de fancybox sur un écran retina"
+
+#: inc/flibusbox-admin-settings.php:376
+msgid ""
+"for a good use of this plugin, you must choose an image with this "
+"dimension : width -> 88px and height -> 304px"
+msgstr ""
+"Pour une bonne utilisation de ce plugin, vous devez choisir une image avec "
+"ces dimensions : largeur-> 88px et hauteur-> 304px"
+
+#: inc/flibusbox-localize-script-settings.php:34
+msgid ""
+"Oups!!...the dimension of your image are incorrect. you are taking an image "
+"with a width "
+msgstr ""
+"Oups!!...les dimensions de votre image sont incorrectes. Vous avez pris une "
+"image avec une largeur"
+
+#: inc/flibusbox-localize-script-settings.php:35
+msgid " px and a height "
+msgstr "px et une hauteur"
+
+#: inc/flibusbox-localize-script-settings.php:36
+msgid ""
+" px. For a good use of this plugin you must choose an image with this "
+"dimension: width "
+msgstr ""
+"px. Pour une bonne utilisation de ce plugin, vous devez choisir une image "
+"avec ces dimensions : largeur "
+
+#: inc/flibusbox-localize-script-settings.php:37
+msgid " px, height "
+msgstr "px, hauteur "
+
+#: inc/flibusbox-localize-script-settings.php:38
+msgid " px. "
+msgstr "px. "
+
+#: inc/flibusbox-localize-script-settings.php:39
+msgid "Oups...!! Try again with another image"
+msgstr "Oups...!! Essayez encore avec une autre image"
+
+#: inc/flibusbox-localize-script-settings.php:40
+msgid "Media upload for choose your custom theme"
+msgstr "Media pour choisir votre thème personnalisé"
+
+#: lib/functions.php:59 lib/functions.php:95
+#, php-format
+msgid ""
+"Image dimensions are wrong. Maximum width is %s px. Uploaded image width is "
+"%s px"
+msgstr ""
+"Les dimensions des images sont incorrectes. Largeur maximale est %s px. "
+"Image uploadée avec une largeur de %s px."
+
+#: lib/functions.php:64 lib/functions.php:101
+#, php-format
+msgid ""
+"Image dimensions are wrong. Maximum height is %s px. Uploaded image height "
+"is %s px"
+msgstr ""
+"Les dimensions des images sont incorrectes. Hauteur maximale est %s px. "
+"Image uploadée avec une hauteur de %s px."
+
+#: lib/functions.php:71 lib/functions.php:108
+msgid ""
+"bad extension. for a good use of this plugin, you must choose an images with "
+"this extension : jpg, jpeg, jpe, gif, png, bmp"
+msgstr ""
+"Mauvaise extension. Pour une bonne utilisation de ce plugin, vous devez "
+"choisir des images avec ces extensions : jpg, jpeg, jpe, gif, png, bmp"
+
+#~ msgid "px and a height "
+#~ msgstr "px et une hauteur"
+
+#~ msgid ""
+#~ "px. For a good use of this plugin you must choose an image with this "
+#~ "dimension: width "
+#~ msgstr ""
+#~ "px. Pour une bonne utilisation du plugin, vous devez choisir une image "
+#~ "avec ces dimensions: largeur"
+
+#~ msgid "px, height "
+#~ msgstr "px, hauteur"
+
+#~ msgid "px. "
+#~ msgstr "px."
+
+#~ msgid "Image dimensions are wrong. Maximum height is "
+#~ msgstr "Dimensions d'image incorrectes. L'hauteur maximale est "
+
+#~ msgid "Image dimensions are wrong. Maximum width is "
+#~ msgstr "Dimensions d'image incorrectes. La largeur maximale est "

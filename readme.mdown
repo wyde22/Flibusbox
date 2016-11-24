@@ -1,0 +1,51 @@
+<h2>First</h2>
+
+<p>Flibusbox it's a wordpress plugin that use the famous fancybox. But with this tool you can change some options of fancybox directly of administration pannel of your wordpress</p>
+
+<h2>Installation</h2>
+
+<p>For use Flibusbox in your images, you must put a setting when you upload the images. <strong>It's necessary to link your image media file.</strong> It's very important.</p>
+
+<p>After upload Flibusbox, you can find the pannel options of plugin in the tools menu</p>
+
+<h2>Adminstration of the plugin</h2>
+
+<p>With Flibusbox, you can change many options</p>
+
+<ul>
+	<li>Change open effects</li>
+	<li>Change open speed</li>
+	<li>Change close effects</li>
+	<li>Change transition effects</li>
+	<li>Change overlay color</li>
+	<li>Change overlay opacity</li>
+	<li>Settings buttons navigation. You have 5 themes : snow, dark, street art, origin, custom theme</li>
+	<li>When check custom theme option, you can choose a navigation button for a normal screen</li>
+	<li>Put a custom navigation button for a retina screen</li>
+</ul>
+
+<h2>Custom navigation button</h2>
+
+<p>It's necessary to respect a dimension for the navigation button of flibusbox</p>
+
+<ul>
+	<li>Button for a normal screen : 44 X 152 pixels</li>
+	<li>Button for a retina screen : 88 X 304 pixels</li>
+</ul>
+
+
+<h2>Coming Soon</h2>
+
+<p>I have many ideas for the development of this extension</p>
+
+<ul>
+	<li>More control in upload of custom button</li>
+	<li>Others options manage by Flibusbox</li>
+	<li>More funny theme directly available in a pannel option</li>
+	<li>Developp Flibusbox for the other media (video)</li>
+	<li>Build the code in a POO</li>
+	<li>etc ...</li>
+</ul>
+
+</body>
+</html>
